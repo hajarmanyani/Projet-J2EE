@@ -1,27 +1,38 @@
-# DigitalBankingWeb
+Partie 01 : La couche DAO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
+-Création des entitées JPA pour la persistance des données
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/4750544e-7137-48fb-9b6d-85dac59bbb9b)
 
-## Development server
+-Utiliser la stratégie Single Table comme type d'héritage:
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/80a39fde-6a31-4cef-9752-277d2c8222c2)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-Configurer la base de données
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/cd35b01c-8d6c-443e-9647-bcceb87f9fe8)
 
-## Code scaffolding
+-Visualiser les tables
+![2](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/59589703-3872-4a94-9b46-3c02ce9a2c70)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-Ajouter les clients 
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/55e23512-cffc-4f09-a51e-997a86814203)
 
-## Build
+-Ajouter les comptes
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/62056e76-f386-45cb-89c6-fb8c06f0a8d7)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-Ajouter les opérations
+![7](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/7627c787-2444-4678-a66b-ab9b7df84ab1)
+![8](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/54f2c6ed-9038-43e0-8aab-19cea5d68595)
 
-## Running unit tests
+-Visualiser les clients et les opérations sur la console
+![10](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/29f6eb0b-fd08-4384-ae75-afcddaedc514)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-Visualiser les données sur PhpMyAdmin
+![mysql](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/617bb1d3-ca9e-4af8-8ad0-0fceda3102b3)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+
+
