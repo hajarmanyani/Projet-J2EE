@@ -74,6 +74,14 @@
 
 <h1>Partie 03 : Client Angular</h1>
 
+-Créer un projet angular avec l'installation de l'invite de commande d'Angular (CLI)
+![1](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/c9c819ae-fbdf-49d7-829b-72d334307072)
+
+-Pour ecécuter le projet, on exécute la commande 'ng serve' à partir de la racine du projet. Cette commande compile e code source du projet pour transpiler le code TypeScript en JavaScript et en meme temps démarre un serveur web local basé sur NodeJs pour déployer l'application localement.
+![2](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/006dd050-1bcb-4945-9915-e3ab3babaeec)
+
+-Générer les composants nécessaires à l'aide de la commande "ng g c navbar" par exemple
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/dc0388e5-d16f-45f1-93da-f7a91ba1ebf7)
 
 
 
