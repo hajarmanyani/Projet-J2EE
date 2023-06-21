@@ -8,6 +8,9 @@
 -Utiliser la stratégie Single Table comme type d'héritage pour modéliser une hiérarchie de classes en utilisant une seule table dans la base de données pour stocker toutes les données des sous-classes
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/80a39fde-6a31-4cef-9752-277d2c8222c2)
 
+-Ajouter interfaces AccountOperationRepository, BankAccountRepository et CustomerRepository qui héritent de l'interface JpaRepository  fournie par Spring Data. L'utilisation de l'interface 'JpaRepository' permet de bénéficier des fonctionnalités de base pour l'accès aux données, telles que les opérations CRUD (Create, Read, Update, Delete) et d'autres opérations courantes.
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/ba41c736-e66c-4a01-a3fc-0b784a11c4d0)
+
 -Configurer la base de données 
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/cd35b01c-8d6c-443e-9647-bcceb87f9fe8)
 
@@ -30,6 +33,7 @@
 -Visualiser les données sur la plateforme PhpMyAdmin
 ![mysql](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/617bb1d3-ca9e-4af8-8ad0-0fceda3102b3)
 
+<h1>Partie 02 : Tester la couche DAO</h1>
 
 
 
