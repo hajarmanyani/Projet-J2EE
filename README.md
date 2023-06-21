@@ -83,6 +83,37 @@
 -Générer les composants nécessaires à l'aide de la commande "ng g c navbar" par exemple
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/dc0388e5-d16f-45f1-93da-f7a91ba1ebf7)
 
+-Ajouter une barre de navigation
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/cd4ebc5c-a557-4cfa-a9e9-b5eba1d78447)
+
+-Configurer le système de routage pour naviguer entre les composants
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/e8695100-67d9-4c35-8071-ad98a4d02ac5)
+
+-Pour afficher la liste des clients, on doit installer le module HttpClientModule pour intéragir avec la partie Backend et pouvoir charger les données
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/2c74e35b-07d4-4ec7-8c10-7cd893519d8b)
+
+-Afficher la liste des clients à l'aide du code HTML
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/ae141a9b-8b22-42f0-9318-0157f8eb9cd4)
+
+-Installer et utiliser CORS pour le transfert de données entre le backend et le frontend
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/28a02006-7909-4fb8-8c3c-0296ecb02c10)
+
+-Créer les deux services appelés CustomerService et AccountService pour pouvoir les injecter dans n'importe quel composant
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/df18c451-86a7-4822-8fe2-af4096fea97e)
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/1cdd1019-d467-41fa-80e0-099fe2d4fc2a)
+
+-Créer des classes sous le paquet models qui représentent le modèle
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/5a4723b2-be8a-44cd-8dcb-1bcea9b7ad95)
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/3859f109-a95f-4d03-a1aa-919fb86e1b1b)
+
+-Créer un fomulaire pour la recherche des clients
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/0d3490ab-070c-42aa-bfe4-de6c22e9684f)
+
+<h2>Test</h2>
+
+![f1](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/9bb532df-eeef-46b3-84e5-33950f549883)
+
+![f2](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/3ed59810-9598-4f1e-bca2-ef0b3889e421)
 
 
 
