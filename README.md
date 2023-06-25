@@ -77,10 +77,11 @@
 -Créer un projet angular avec l'installation de l'invite de commande d'Angular (CLI)
 ![1](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/c9c819ae-fbdf-49d7-829b-72d334307072)
 
--Pour ecécuter le projet, on exécute la commande 'ng serve' à partir de la racine du projet. Cette commande compile e code source du projet pour transpiler le code TypeScript en JavaScript et en meme temps démarre un serveur web local basé sur NodeJs pour déployer l'application localement.
+-Pour exécuter le projet, on exécute la commande 'ng serve' à partir de la racine du projet. Cette commande compile e code source du projet pour transpiler le code TypeScript en JavaScript et en meme temps démarre un serveur web local basé sur NodeJs pour déployer l'application localement.
+-On peut accéder à l'application en ouvrant votre navigateur et en visitant l'URL http://localhost:4200 (par défaut) 
 ![2](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/006dd050-1bcb-4945-9915-e3ab3babaeec)
 
--Générer les composants nécessaires à l'aide de la commande "ng g c navbar" par exemple
+-Générer les composants nécessaires à l'aide de la commande "ng g c customers" par exemple
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/dc0388e5-d16f-45f1-93da-f7a91ba1ebf7)
 
 -Ajouter une barre de navigation
@@ -102,7 +103,7 @@
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/df18c451-86a7-4822-8fe2-af4096fea97e)
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/1cdd1019-d467-41fa-80e0-099fe2d4fc2a)
 
--Créer des classes sous le paquet models qui représentent le modèle
+-Créer des classes sous le paquet models qui représentent le modèle de données
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/5a4723b2-be8a-44cd-8dcb-1bcea9b7ad95)
 ![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/3859f109-a95f-4d03-a1aa-919fb86e1b1b)
 
@@ -111,9 +112,18 @@
 
 <h2>Test</h2>
 
+-Afficher la liste des clients
 ![f1](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/9bb532df-eeef-46b3-84e5-33950f549883)
 
+-Ajouter un nouveau client
 ![f2](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/3ed59810-9598-4f1e-bca2-ef0b3889e421)
+
+-Afficher les informations relatives à un compte spécifique avec les opérations effectuées
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/538a3ae4-183e-4c5e-800d-349430e59140)
+
+-Effectuer une opération
+![image](https://github.com/hajarmanyani/Projet-J2EE/assets/93662714/db847c9b-e028-443f-954c-e9c9ffc3ecdb)
+
 
 
 
